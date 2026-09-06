@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "twinapi",
+      "file": "twinapi.dll",
+      "index": "twinapi/index.json",
+      "latest": "3481548834-D557C65CD8F155CF6CD5178F8EF8CA73-1",
+      "build_count": 1
+    }
+  ]
+}

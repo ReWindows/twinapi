@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "twinapi.dll",
+  "latest": "3481548834-D557C65CD8F155CF6CD5178F8EF8CA73-1",
+  "builds": [
+    {
+      "key": "3481548834-D557C65CD8F155CF6CD5178F8EF8CA73-1",
+      "timestamp": "3481548834",
+      "pdb_guid": "D557C65CD8F155CF6CD5178F8EF8CA73",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3481548834-D557C65CD8F155CF6CD5178F8EF8CA73-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
